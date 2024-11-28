@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944751524873",
+    "project_id": "bathroom-app-52749",
+    "storage_bucket": "bathroom-app-52749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944751524873:android:c364f6dbe10832192b8cd8",
+        "android_client_info": {
+          "package_name": "com.example.bathroom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1s4N_nf3CdP4C8URVSggWqAgDm5KWMrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
